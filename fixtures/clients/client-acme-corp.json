@@ -1,0 +1,7 @@
+{
+  "company": "Acme Corporation",
+  "country": "United States",
+  "email": "info@acme.com",
+  "taxExempt": false,
+  "currency": "USD"
+}
