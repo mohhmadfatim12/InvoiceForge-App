@@ -1,0 +1,5 @@
+<resources>
+    <string name="invoice_title">Rechnung</string>
+    <string name="nav_clients">Kunden</string>
+    <string name="nav_settings">Einstellungen</string>
+</resources>
