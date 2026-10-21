@@ -1,0 +1,5 @@
+<resources>
+    <string name="invoice_title">Счет</string>
+    <string name="nav_clients">Клиенты</string>
+    <string name="nav_settings">Настройки</string>
+</resources>
