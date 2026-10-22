@@ -1,0 +1,5 @@
+<resources>
+    <string name="invoice_title">发票</string>
+    <string name="nav_clients">客户</string>
+    <string name="nav_settings">设置</string>
+</resources>
