@@ -1,0 +1,5 @@
+<resources>
+    <string name="invoice_title">انوائس</string>
+    <string name="nav_clients">گاہک</string>
+    <string name="nav_settings">ترتیبات</string>
+</resources>
