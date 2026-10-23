@@ -1,0 +1,5 @@
+<resources>
+    <string name="invoice_title">चालान</string>
+    <string name="nav_clients">ग्राहक</string>
+    <string name="nav_settings">सेटिंग्स</string>
+</resources>
