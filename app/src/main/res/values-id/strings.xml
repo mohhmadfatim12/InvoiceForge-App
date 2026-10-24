@@ -1,0 +1,5 @@
+<resources>
+    <string name="invoice_title">Faktur</string>
+    <string name="nav_clients">Klien</string>
+    <string name="nav_settings">Pengaturan</string>
+</resources>
